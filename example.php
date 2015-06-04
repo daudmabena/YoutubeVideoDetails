@@ -65,8 +65,5 @@ $youtube->video("UODCeqpVEEE");
 		<td><img src="<?php echo $youtube->get_thumbnail(); ?>" /></td>
 	</tr>
 </table>
-<br /><br />
-Class documentation: <a href="https://dl.dropbox.com/u/19701113/codecanyon/youtubevideodetailsclass/index.html" target="_blank">https://dl.dropbox.com/u/19701113/codecanyon/youtubevideodetailsclass/index.html</a>
-</div>
 </body>
 </html>
